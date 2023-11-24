@@ -10,3 +10,8 @@ function greet(name) {
 }
 
 greet("All-In-Africa");
+
+
+- [X] Introduce myself to the world
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
